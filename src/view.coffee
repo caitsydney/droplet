@@ -55,7 +55,7 @@ define ['droplet-helper', 'droplet-draw', 'droplet-model'], (helper, draw, model
       deeppurple: '#b39ddb'
       indigo: '#9fa8da'
       blue: '#90caf9'
-      lightblue: '#81d4fa'
+      lightblue: '#FF0000'
       cyan: '#80deea'
       teal: '#80cbc4'
       green: '#a5d6a7'
